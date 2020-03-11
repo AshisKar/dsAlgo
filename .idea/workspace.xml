@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="13c6587c-e48a-4896-b865-55b3a8c61d5c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YDBmZ1LBFaAuflBNs3AnSwoJJ4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../flyaps_o3/o3" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Queue" />
+      <recent name="$PROJECT_DIR$/Linkedlist" />
+      <recent name="$PROJECT_DIR$/Graph" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Trie (1)">
+    <configuration name="Trie (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="test_projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tri" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tri/Trie.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Trie" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="test_projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Trie" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Trie/Trie.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ancestors-bst" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="test_projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tree" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tree/ancestors-bst.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="height-bst" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="test_projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tree" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tree/height-bst.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="kth-max-bst" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="test_projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tree" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tree/kth-max-bst.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Trie (1)" />
+        <item itemvalue="Python.Trie" />
+        <item itemvalue="Python.height-bst" />
+        <item itemvalue="Python.ancestors-bst" />
+        <item itemvalue="Python.kth-max-bst" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="13c6587c-e48a-4896-b865-55b3a8c61d5c" name="Default Changelist" comment="" />
+      <created>1582467443424</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582467443424</updated>
+      <workItem from="1582467460167" duration="7856000" />
+      <workItem from="1582714347316" duration="49154000" />
+      <workItem from="1583564074300" duration="1906000" />
+      <workItem from="1583731215757" duration="1716000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="451" y="210" width="1084" height="713" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582480683764">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="451" y="210" width="1084" height="713" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1582480683764" />
+    <state x="751" y="205" key="#xdebugger.evaluate" timestamp="1583081568294">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="751" y="205" key="#xdebugger.evaluate/67.27.1853.1053@67.27.1853.1053" timestamp="1583081568294" />
+    <state x="464" y="267" width="488" height="259" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1583307992065">
+      <screen x="67" y="27" width="1293" height="741" />
+    </state>
+    <state x="464" y="267" width="488" height="259" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/67.27.1293.741@67.27.1293.741" timestamp="1583307992065" />
+    <state x="496" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1583731446272">
+      <screen x="67" y="27" width="1293" height="741" />
+    </state>
+    <state x="496" y="154" width="424" height="484" key="FileChooserDialogImpl/67.27.1293.741@67.27.1293.741" timestamp="1583731446272" />
+    <state width="1247" height="237" key="GridCell.Tab.0.bottom" timestamp="1583565236087">
+      <screen x="67" y="27" width="1293" height="741" />
+    </state>
+    <state width="1247" height="237" key="GridCell.Tab.0.bottom/67.27.1293.741@67.27.1293.741" timestamp="1583565236087" />
+    <state width="1807" height="242" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1583091762715" />
+    <state width="1247" height="237" key="GridCell.Tab.0.center" timestamp="1583565236083">
+      <screen x="67" y="27" width="1293" height="741" />
+    </state>
+    <state width="1247" height="237" key="GridCell.Tab.0.center/67.27.1293.741@67.27.1293.741" timestamp="1583565236083" />
+    <state width="1807" height="242" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1583091762715" />
+    <state width="1247" height="237" key="GridCell.Tab.0.left" timestamp="1583565236081">
+      <screen x="67" y="27" width="1293" height="741" />
+    </state>
+    <state width="1247" height="237" key="GridCell.Tab.0.left/67.27.1293.741@67.27.1293.741" timestamp="1583565236081" />
+    <state width="1807" height="242" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1583091762714" />
+    <state width="1247" height="237" key="GridCell.Tab.0.right" timestamp="1583565236085">
+      <screen x="67" y="27" width="1293" height="741" />
+    </state>
+    <state width="1247" height="237" key="GridCell.Tab.0.right/67.27.1293.741@67.27.1293.741" timestamp="1583565236085" />
+    <state width="1807" height="242" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1583091762715" />
+    <state width="1247" height="237" key="GridCell.Tab.1.bottom" timestamp="1583565238976">
+      <screen x="67" y="27" width="1293" height="741" />
+    </state>
+    <state width="1247" height="237" key="GridCell.Tab.1.bottom/67.27.1293.741@67.27.1293.741" timestamp="1583565238976" />
+    <state width="1807" height="242" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1583091762716" />
+    <state width="1247" height="237" key="GridCell.Tab.1.center" timestamp="1583565238972">
+      <screen x="67" y="27" width="1293" height="741" />
+    </state>
+    <state width="1247" height="237" key="GridCell.Tab.1.center/67.27.1293.741@67.27.1293.741" timestamp="1583565238972" />
+    <state width="1807" height="242" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1583091762716" />
+    <state width="1247" height="237" key="GridCell.Tab.1.left" timestamp="1583565238971">
+      <screen x="67" y="27" width="1293" height="741" />
+    </state>
+    <state width="1247" height="237" key="GridCell.Tab.1.left/67.27.1293.741@67.27.1293.741" timestamp="1583565238971" />
+    <state width="1807" height="242" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1583091762716" />
+    <state width="1247" height="237" key="GridCell.Tab.1.right" timestamp="1583565238974">
+      <screen x="67" y="27" width="1293" height="741" />
+    </state>
+    <state width="1247" height="237" key="GridCell.Tab.1.right/67.27.1293.741@67.27.1293.741" timestamp="1583565238974" />
+    <state width="1807" height="242" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1583091762716" />
+    <state x="482" y="187" key="SettingsEditor" timestamp="1582480645058">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="482" y="187" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1582480645058" />
+    <state x="383" y="230" key="com.intellij.ide.util.TipDialog" timestamp="1583731427181">
+      <screen x="67" y="27" width="1293" height="741" />
+    </state>
+    <state x="383" y="230" key="com.intellij.ide.util.TipDialog/67.27.1293.741@67.27.1293.741" timestamp="1583731427181" />
+    <state x="520" y="315" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1582792291054" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Graph/bfs.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Graph/bfs.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Graph/cycle_exists.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Graph/cycle_exists.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Tree/bst.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Tree/min-val-bst.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Tree/kth-max-bst.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Tree/kth-max-bst.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Tree/height-bst.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Tri/Trie.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/test_projects$cycle_exists.coverage" NAME="cycle_exists Coverage Results" MODIFIED="1582971321379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Graph" />
+    <SUITE FILE_PATH="coverage/test_projects$bfs.coverage" NAME="bfs Coverage Results" MODIFIED="1582818450143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Graph" />
+    <SUITE FILE_PATH="coverage/test_projects$path_exists.coverage" NAME="path_exists Coverage Results" MODIFIED="1582964947290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Graph" />
+    <SUITE FILE_PATH="coverage/test_projects$height_bst.coverage" NAME="height-bst Coverage Results" MODIFIED="1583564692535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tree" />
+    <SUITE FILE_PATH="coverage/test_projects$bfs__1_.coverage" NAME="bfs (1) Coverage Results" MODIFIED="1582522574040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/all" />
+    <SUITE FILE_PATH="coverage/test_projects$dfs.coverage" NAME="dfs Coverage Results" MODIFIED="1582819751412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Graph" />
+    <SUITE FILE_PATH="coverage/test_projects$min_val_bst.coverage" NAME="min-val-bst Coverage Results" MODIFIED="1583073619312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tree" />
+    <SUITE FILE_PATH="coverage/test_projects$Trie.coverage" NAME="Trie Coverage Results" MODIFIED="1583564971197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Trie" />
+    <SUITE FILE_PATH="coverage/test_projects$ancestors_bst.coverage" NAME="ancestors-bst Coverage Results" MODIFIED="1583091762649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tree" />
+    <SUITE FILE_PATH="coverage/test_projects$is_graph_tree.coverage" NAME="is_graph_tree Coverage Results" MODIFIED="1582971370206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Graph" />
+    <SUITE FILE_PATH="coverage/test_projects$bst.coverage" NAME="bst Coverage Results" MODIFIED="1582979273309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tree" />
+    <SUITE FILE_PATH="coverage/test_projects$kth_max_bst.coverage" NAME="kth-max-bst Coverage Results" MODIFIED="1583083101173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tree" />
+    <SUITE FILE_PATH="coverage/test_projects$Trie__1_.coverage" NAME="Trie (1) Coverage Results" MODIFIED="1583565082106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tri" />
+  </component>
+</project>
